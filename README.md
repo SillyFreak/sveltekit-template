@@ -1,5 +1,7 @@
 # Sveltekit template
 
+> **ATTENTION:** this repository is not yet updated to SvelteKit 1.0!
+
 This is a very opinionated Sveltekit template. It's configured for my personal setup.
 
 ```bash
